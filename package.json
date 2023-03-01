@@ -2,9 +2,9 @@
   "name": "node-js-sample",
   "version": "0.1",
   "description": "A sample Node.js application with Docker",
-  "main": "index.js",
+  "main": "cms.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node cms.js"
   },
   "dependencies": {
     "express": "^4.17.1"
