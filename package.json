@@ -7,10 +7,10 @@
     "start": "node cms.js"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.13.3"
   },
   "engines": {
-    "node": "10.19.0"
+    "node": "4.0.0"
   },
   "repository": {
     "type": "git",
