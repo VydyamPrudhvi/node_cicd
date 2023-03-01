@@ -1,7 +1,7 @@
 {
   "name": "node_cicd",
   "version": "0.2.0",
-  "description": "node_cicd Application with Docker",
+  "description": "A sample Node.js app using Express 4",
   "main": "cms.js",
   "scripts": {
     "start": "node cms.js"
