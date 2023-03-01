@@ -1,6 +1,6 @@
 {
   "name": "node_cicd",
-  "version": "0.1",
+  "version": "0.2.0",
   "description": "node_cicd Application with Docker",
   "main": "cms.js",
   "scripts": {
