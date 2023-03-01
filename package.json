@@ -1,7 +1,7 @@
 {
-  "name": "node-js-sample",
+  "name": "node_cicd",
   "version": "0.1",
-  "description": "A sample Node.js application with Docker",
+  "description": "node_cicd Application with Docker",
   "main": "cms.js",
   "scripts": {
     "start": "node cms.js"
